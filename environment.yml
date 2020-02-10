@@ -1,0 +1,6 @@
+name: crypto
+channels:
+  - defaults
+dependencies:
+  - pycryptodome=3.8.2=py38he774522_0
+  - python=3.8.1
